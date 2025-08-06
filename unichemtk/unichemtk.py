@@ -34,4 +34,5 @@ def get_info_from_response(response):
         "inchi": inchi,
         "inchikey": inchikey,
         "uci": uci,
+        "sources": sources,
     }
